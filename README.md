@@ -15,7 +15,7 @@ Trip-er is designed to be your ultimate travel companion, empowering you to disc
 
 - **Front-end**: React, HTML, CSS, JavaScript
 - **Back-end**: Node.js, Express.js
-- **APIs**: MapBox, ChatGPT API
+- **APIs**: MapBox API, ChatGPT API
 
 
 ## Acknowledgments
