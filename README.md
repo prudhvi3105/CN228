@@ -15,12 +15,12 @@ Trip-er is designed to be your ultimate travel companion, empowering you to disc
 
 - **Front-end**: React, HTML, CSS, JavaScript
 - **Back-end**: Node.js, Express.js
-- **APIs**: Google Maps API, OpenStreetMap API, ChatGPT API
+- **APIs**: MapBox, ChatGPT API
 
 
 ## Acknowledgments
 
-- [OpenStreetMap](https://www.openstreetmap.org/) for providing open-source map data.
+- [MapBox](https://www.mapbox.com/) for providing map data.
 - [React](https://reactjs.org/) and the React community for the incredible front-end library and resources.
 - [Node.js](https://nodejs.org/) and the Node.js community for the robust server-side runtime environment.
 - [ChatGPT API](https://openai.com/blog/chatgpt/) for enabling natural language processing capabilities within the application.
