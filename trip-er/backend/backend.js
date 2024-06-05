@@ -16,7 +16,9 @@ app.use((req, res, next) => {  res.header('Access-Control-Allow-Origin', '*');
 });
 app.use(cors());
 app.use(bodyParser.json());
-
+app.use(cors({
+  origin: 'http://localhost:5173' // specify your frontend origin
+}));
 app.get("/", (req,res)=>{
     res.send("Server is up & running");
 });
